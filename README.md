@@ -6,39 +6,20 @@ A comprehensive loan analysis system using SQL Server, Power BI, and Excel to an
 ## Overview and Business Insights
 
 ### Why This Analysis Matters
-Bank loans are fundamental financial instruments that facilitate individual and business growth by providing access to necessary capital. This analysis serves a crucial role in understanding lending patterns, risk assessment, and portfolio performance to enable data-driven decision-making in loan operations.
+Loans are fundamental financial instruments that facilitate individual and business growth by providing access to necessary capital. This analysis serves a crucial role in understanding lending patterns, risk assessment, and portfolio performance to enable data-driven decision-making in loan operations.
 
 ### Project Scope
-The project delivers a comprehensive loan report focusing on:
 
-#### Key Performance Indicators (KPIs)
-- **Total Loan Applications**
-  - Overall volume tracking
-  - Month-to-Date (MTD) monitoring
-  - Month-over-Month (MoM) trend analysis
-
-- **Financial Metrics**
-  - Total Funded Amount (with MTD and MoM analysis)
-  - Total Amount Received
-  - Average Interest Rate trends
-  - Average Debt-to-Income Ratio (DTI)
-
-#### Multi-Dimensional Analysis
-- Monthly Trends Discovery
-- Regional Analysis
-- Employee Length Impact
-- Loan Term Analysis
-- Purpose Analysis
-- Good vs. Bad Loans Classification
+| Category | Components | Details |
+|----------|------------|----------|
+| **Key Performance Indicators** | **Loan Applications** | • Overall volume tracking<br>• Month-to-Date (MTD) monitoring<br>• Month-over-Month (MoM) trend analysis |
+| | **Financial Metrics** | • Total Amount Disbursed (with MTD and MoM analysis)<br>• Total Amount Repaid<br>• Average Interest Rate trends<br>• Average Debt-to-Income Ratio (DTI) |
+| **Analysis Dimensions** | **Geographic Analysis** | • Regional lending patterns<br>• Risk assessment by location |
+| | **Temporal Analysis** | • Monthly trends discovery<br>• Seasonal patterns identification |
+| | **Borrower Analysis** | • Employment length impact<br>• Professional stability assessment |
+| | **Loan Characteristics** | • Term length analysis<br>• Purpose categorization<br>• Good vs. Bad Loans Classification |
 
 *Note: For detailed information about data fields and their descriptions, please refer to the [Data Catalog](data_catalog.md).*
-
-### Analysis Categories
-The project breaks down loan performance across multiple dimensions:
-1. **Geographic Distribution**: Regional lending patterns and risk assessment
-2. **Temporal Analysis**: Monthly trends and seasonal patterns
-3. **Borrower Profiles**: Employment length and stability analysis
-4. **Loan Characteristics**: Term length and purpose analysis
 
 ## Methodology
 
