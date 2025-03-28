@@ -3,6 +3,8 @@
 ## TL;DR
 A comprehensive loan analysis system using SQL Server, Power BI, and Excel to analyze lending patterns, risk assessment, and portfolio performance. The project provides detailed insights through various KPIs across multiple dimensions including regional distribution, loan terms, and borrower characteristics.
 
+[View the interactive Power BI dashboard here](https://project.novypro.com/U0xmFz)
+
 ## Overview and Business Insights
 
 ### Why This Analysis Matters
@@ -46,6 +48,16 @@ The project follows a systematic approach starting with the establishment of a S
 | **Data Processing** | • Power Query integration for data type transformations<br>• Data cleaning and standardization<br>• Custom column calculations |
 | **Analysis Tools** | • Pivot tables for KPI calculations<br>• Pivot charts for visual analysis<br>• Dynamic dashboards |
 | **Custom Features** | • Advanced cell formatting<br>• Interactive slicers<br>• Customized charts and visualizations<br>• Conditional formatting rules |
+
+## Gallery
+
+### Excel Dashboards
+![Excel Loan Overview](images/excel_loan_overview.png)
+![Excel Loan Summary](images/excel_loan_summary.png)
+
+### Power BI Dashboards
+![Power BI Loan Overview](images/pbi_loan_overview.png)
+![Power BI Loan Summary](images/pbi_loan_summary.png)
 
 ### Social Media
 Connect with me on [LinkedIn: Ali Ghafarian - Data Analyst](www.linkedin.com/in/ali-ghafarian-data-analyst)
